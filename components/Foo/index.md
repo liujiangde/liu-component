@@ -8,7 +8,7 @@ demo:
 ---
 
 ```jsx
-import { Foo } from './index.tsx';
+import { default as Foo } from './index.tsx';
 
 export default () => <Foo title="Hello dumi!" />;
 ```

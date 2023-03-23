@@ -8,7 +8,7 @@ demo:
 ---
 
 ```jsx
-import { Button } from './index.tsx';
+import { default as Button } from './index.tsx';
 
 export default () => <Button title="Hello 这他么是啥？!" />;
 ```
