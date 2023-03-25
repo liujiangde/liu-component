@@ -1,4 +1,7 @@
 ---
+nav:
+  title: 文档
+  order: 1
 hero:
   title: library
   description: A react library developed with dumi
@@ -18,5 +21,4 @@ features:
     emoji: 🚀
     description: Put ! description here
 ---
-
-@dumi2/liu
+<!-- 其他 Markdown 内容 -->
