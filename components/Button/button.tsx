@@ -1,4 +1,4 @@
-import React from "react";
+import React, { FC } from "react";
 
 /**
  * @description
@@ -7,6 +7,6 @@ import React from "react";
  * 固定位置
  */
 
-const Button = <div></div>
+const Button: FC<{ title: string }> = (props) => <h4>{props.title}</h4>;
 
 export default Button;
