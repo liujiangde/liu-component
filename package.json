@@ -70,5 +70,9 @@
   },
   "authors": [
     "1462547921@qq.com"
-  ]
+  ],
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "antd": "^5.3.2"
+  }
 }

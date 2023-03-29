@@ -5,7 +5,7 @@ export default defineConfig({
   outputPath: 'docs-dist',
   resolve:{
     docDirs: [{ type: 'doc', dir: 'docs' }],
-    atomDirs: [{ type: 'component', dir: 'components' }],
+    // atomDirs: [{ type: 'component', dir: 'components' }],
   },
 
   alias: {
